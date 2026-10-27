@@ -1,0 +1,5 @@
+1. ls: Dosyalari ve klasorleri listeler.
+2. cd: Dizin degistirir.
+3. pwd: Bulunulan dizini gosterir.
+4. mkdir: Yeni klasor olusturur.
+5. rm: Dosya siler.
