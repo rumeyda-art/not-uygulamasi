@@ -9,3 +9,5 @@
 8. git commit: Degisiklikleri kaydeder.
 9. git status: Calisma agacinin durumunu gosterir.
 10. git log: Commit gecmisini listeler.
+
+# Hafta 2 Not Sonu
